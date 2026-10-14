@@ -1,10 +1,10 @@
-<!-- GitHub Profile README — create a PUBLIC repository named villarroelka only after verifying company policy. -->
+<!-- Public-facing profile: no private source code, endpoints, credentials, network details, or company-internal information. -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:211A34,50:513878,100:9272D6&text=Hi%2C%20I'm%20Kevin%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=48&fontAlignY=37&desc=Data%20Engineer%20%7C%20Creative%20Technologist&descAlignY=60&descSize=19" width="100%" alt="Hi, I'm Kevin — Data Engineer and Creative Technologist" />
 
-**Engineering reliable data systems. Exploring what's possible beyond the code.**
+**Engineering reliable data systems. Building curious things beyond the terminal.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-villarroelka-211A34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/villarroelka)
 
@@ -12,12 +12,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** with a background in **Marketing Technology**, interested in the intersection of data, automation, and creative technology.
+I'm a **Data Engineer** with a background in **Marketing Technology**. I enjoy connecting data, automation, infrastructure, and hands-on experimentation.
 
-- 🔧 I enjoy turning complex workflows into maintainable, reliable systems.
+- 🔧 I turn complex workflows into maintainable, reliable systems.
 - ☁️ I work with cloud data tooling, pipelines, and developer workflows.
-- 🧠 I'm always exploring better ways to learn, build, and automate.
-- 🎨 Outside of engineering, I'm into **3D creation, 3D printing, XR, and gaming**.
+- 🧪 I build personal projects to explore full-stack development, self-hosting, and hardware.
+- 🎨 Away from work, you'll find me exploring **3D design, 3D printing, XR, gaming, and space**.
+
+## 🧭 My Journey
+
+**Marketing Technology → Data Engineering**
+
+I started at the intersection of marketing, technology, and automation. Today, my focus is on building and improving data systems — with the same curiosity that drives my personal experiments.
 
 ## 🛠️ Tech & Tools
 
@@ -27,7 +33,11 @@ I'm a **Data Engineer** with a background in **Marketing Technology**, intereste
 
 <img src="https://skillicons.dev/icons?i=python,gcp,terraform,git,github,bash&theme=dark" alt="Python, Google Cloud, Terraform, Git, GitHub, Bash" />
 
-**Development Environment**
+**Full Stack & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,postgres,docker,nginx&theme=dark" alt="TypeScript, Node.js, Express, React, PostgreSQL, Docker, Nginx" />
+
+**Developer Environment**
 
 <img src="https://skillicons.dev/icons?i=linux,vim,vscode&theme=dark" alt="Linux, Vim, Visual Studio Code" />
 
@@ -39,18 +49,76 @@ I'm a **Data Engineer** with a background in **Marketing Technology**, intereste
 
 > My toolbox keeps evolving. I care more about choosing the right tool than collecting logos.
 
-## 🚀 What I'm Interested In
+## 🧩 Selected Personal Projects
 
-| 🔍 Focus | ✨ What motivates me |
+<table>
+<tr><td width="50%" valign="top">
+
+### 🏠 OlimpUS — Personal Homelab
+
+A **Raspberry Pi 5** home lab for learning, self-hosting, and tinkering with real hardware.
+
+- Linux-based setup with NVMe storage
+- Remote administration and personal services
+- Game-streaming experiments using **Moonlight + Sunshine**
+
+**Focus:** Raspberry Pi · Linux · Networking · Self-hosting
+
+</td><td width="50%" valign="top">
+
+### 📈 Quant App — Market Research
+
+A personal full-stack project for exploring markets, signals, and analytical workflows.
+
+- **React + Vite** frontend
+- **Node.js + Express + TypeScript** backend
+- **PostgreSQL** data layer and authentication
+- Market dashboards and research-oriented tooling
+
+**Focus:** Full Stack · Data · Market Research
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🤖 Jacinto — P2P Market Scanner
+
+A Python-based tool for comparing public **Binance P2P** advertisements and delivering useful summaries to **Discord**.
+
+- Offer filtering and estimated conversion calculations
+- Scheduled checks and notifications
+- Read-only monitoring; **no automated trades or transfers**
+
+**Focus:** Python · APIs · Automation · Discord
+
+</td><td width="50%" valign="top">
+
+### 🐬 Flipper Zero — Hardware Lab
+
+Hands-on exploration of embedded gadgets, infrared technology, and hardware integrations.
+
+- Flipper Zero and Wi-Fi Devboard experimentation
+- Exploring ideas at the intersection of sensors, devices, and automation
+- Learning through prototypes and experimentation
+
+**Focus:** Hardware · Embedded Systems · Experimentation
+
+</td></tr>
+</table>
+
+*These are personal learning and experimentation projects. Source code and demos may be shared separately when ready.*
+
+## 🚀 Things I Like Exploring
+
+| 🔍 Area | ✨ What interests me |
 | :--- | :--- |
-| **Data pipelines** | Reliable flows, thoughtful validation, and easier debugging |
-| **Automation** | Less repetitive work, more time for meaningful problems |
-| **Developer experience** | Practical tooling and smoother workflows |
-| **3D & XR** | Creating, experimenting, and exploring immersive experiences |
+| **Data engineering** | Reliable pipelines, validation, and making failures easier to debug |
+| **Automation & AI** | Less repetitive work and more useful tools |
+| **Self-hosting & hardware** | Building with small computers, connected devices, and Linux |
+| **3D & XR** | Making things, immersive experiences, and creative technology |
 
 ## 🎮 Beyond the Terminal
 
-Blender • 3D Printing • Extended Reality • Video Games • Science & Space
+**Blender** • **3D Printing** • **Extended Reality** • **Video Games** • **Science & Space**
 
 <div align="center">
 
