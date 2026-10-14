@@ -39,7 +39,7 @@ I started at the intersection of marketing, technology, and automation. Today, m
 
 **Developer Environment**
 
-<img src="https://skillicons.dev/icons?i=linux,vim,vscode&theme=dark" alt="Linux, Vim, Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=arch,linux,apple,windows,vim,vscode&theme=dark" alt="Arch Linux, Linux, macOS, Windows, Vim, Visual Studio Code" />
 
 **Creative & Experimental**
 
@@ -103,9 +103,66 @@ Hands-on exploration of embedded gadgets, infrared technology, and hardware inte
 **Focus:** Hardware · Embedded Systems · Experimentation
 
 </td></tr>
+<tr><td colspan="2" valign="top">
+
+### ⌨️ Corne — Custom Split Keyboard & Firmware
+
+A hands-on mechanical keyboard project, going beyond key switches into **firmware, ergonomics, and developer productivity**.
+
+- Customized **QMK** firmware and **Vial** layouts for Corne split keyboards
+- Layered keymaps and tap-dance actions, with shortcuts and macros for everyday developer workflows
+- Experiments with **OLED, RGB lighting, and trackball integration** on hardware builds
+- Evolving layouts for different environments, including macOS, Windows, and Linux
+
+**Focus:** QMK · Vial · C · Embedded Hardware · Ergonomics
+
+</td></tr>
 </table>
 
 *These are personal learning and experimentation projects. Source code and demos may be shared separately when ready.*
+
+## 🖥️ My Workstations & Lab
+
+Different operating systems, different purposes — one curiosity-driven workflow.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🐧 Arch Linux — Personal Development**
+
+CLI-first experimentation, Linux customization, scripting, and exploring how systems fit together.
+
+</td>
+<td width="50%" valign="top">
+
+**🪟 Windows — Creative Workstation**
+
+3D creation, gaming, XR exploration, and personal projects.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🍎 macOS — Engineering Workflow**
+
+Python, cloud tooling, Git, terminal-centric workflows, and developer ergonomics.
+
+</td>
+<td width="50%" valign="top">
+
+**🍓 Raspberry Pi — Home Lab**
+
+Linux services, networking, self-hosting experiments, and hardware tinkering.
+
+</td>
+</tr>
+</table>
+
+### ⚡ Developer Workflow
+
+I enjoy shaping the tools I use every day: **zsh**, terminal workflows, **Neovim**, **fzf**, **zoxide**, **lazygit**, and custom keyboard layers and macros. Good tooling should make it easier to stay focused on the problem, not the interface.
 
 ## 🚀 Things I Like Exploring
 
@@ -113,7 +170,7 @@ Hands-on exploration of embedded gadgets, infrared technology, and hardware inte
 | :--- | :--- |
 | **Data engineering** | Reliable pipelines, validation, and making failures easier to debug |
 | **Automation & AI** | Less repetitive work and more useful tools |
-| **Self-hosting & hardware** | Building with small computers, connected devices, and Linux |
+| **Self-hosting & hardware** | Building with small computers, connected devices, Linux, and custom input devices |
 | **3D & XR** | Making things, immersive experiences, and creative technology |
 
 ## 🎮 Beyond the Terminal
